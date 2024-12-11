@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "2zxK0+o434qzlDLwjGZrTGAZtF2MKqytta1UQVzEfKg=",
+  "Source": "KakhetiOnlineStore",
+  "BasePath": "_content/KakhetiOnlineStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KakhetiOnlineStore\\wwwroot",
+      "Source": "KakhetiOnlineStore",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\d8kwptfqgo-tkbzdzfmtj.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "css/styles#[.{fingerprint=tkbzdzfmtj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kwx68f908x",
+      "Integrity": "3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyw1cn50sy-32vskkqjdi.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "index#[.{fingerprint=32vskkqjdi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "juxdhh69hg",
+      "Integrity": "myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyy5zc9u99-0jh3wdm62g.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/calculator#[.{fingerprint=0jh3wdm62g}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\calculator.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j61ojadvio",
+      "Integrity": "BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\calculator.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\qq4fgm7w4q-a9u2yb67lj.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "dashboard#[.{fingerprint=a9u2yb67lj}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\dashboard.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dkw383ar3w",
+      "Integrity": "Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\ssva8p822p-ki5niz5td9.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/dashboard#[.{fingerprint=ki5niz5td9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\dashboard.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3mg8skz4rz",
+      "Integrity": "5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\dashboard.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\u2dyj8rzjy-0709vykqxv.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "css/dashboard#[.{fingerprint=0709vykqxv}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\dashboard.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xvhlsgnfz2",
+      "Integrity": "zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\dashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\v7n4eqx3dg-h3qpt6b19a.gz",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/main#[.{fingerprint=h3qpt6b19a}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rbnq36xoel",
+      "Integrity": "l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\dashboard.css",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "css/dashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0709vykqxv",
+      "Integrity": "PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\styles.css",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tkbzdzfmtj",
+      "Integrity": "XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\dashboard.html",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a9u2yb67lj",
+      "Integrity": "rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\index.html",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32vskkqjdi",
+      "Integrity": "xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\calculator.js",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/calculator#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0jh3wdm62g",
+      "Integrity": "fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\calculator.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\dashboard.js",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/dashboard#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5niz5td9",
+      "Integrity": "rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dashboard.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\main.js",
+      "SourceId": "KakhetiOnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\",
+      "BasePath": "_content/KakhetiOnlineStore",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h3qpt6b19a",
+      "Integrity": "o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/dashboard.0709vykqxv.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\u2dyj8rzjy-0709vykqxv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001240694789"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0709vykqxv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.0709vykqxv.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0709vykqxv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.0709vykqxv.css.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\u2dyj8rzjy-0709vykqxv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0709vykqxv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\u2dyj8rzjy-0709vykqxv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001240694789"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\u2dyj8rzjy-0709vykqxv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zVmyfu0LlXxmbQEah5E5AN9CmFjJv2mxk/9HUaY16EE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\d8kwptfqgo-tkbzdzfmtj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002028397566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\d8kwptfqgo-tkbzdzfmtj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.tkbzdzfmtj.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\d8kwptfqgo-tkbzdzfmtj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002028397566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkbzdzfmtj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.tkbzdzfmtj.css",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkbzdzfmtj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XS6/0J/+Aa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.tkbzdzfmtj.css.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\d8kwptfqgo-tkbzdzfmtj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 09:20:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkbzdzfmtj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3NrqAOdIzjbz2AMfNGQllq4SlMDQWeCLUctkcG7272U="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.a9u2yb67lj.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\qq4fgm7w4q-a9u2yb67lj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704721635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9u2yb67lj"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.a9u2yb67lj.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9u2yb67lj"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.a9u2yb67lj.html.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\qq4fgm7w4q-a9u2yb67lj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9u2yb67lj"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\qq4fgm7w4q-a9u2yb67lj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704721635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rpM98ksN4J5T/Xk4osH+lYZLyY7QiuL7rImIBAHxwy8="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\qq4fgm7w4q-a9u2yb67lj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+SFVijAQvr9VNPZ9DxtmZBG7ZiMZAcDcHgInot+Kdw="
+        }
+      ]
+    },
+    {
+      "Route": "index.32vskkqjdi.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyw1cn50sy-32vskkqjdi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32vskkqjdi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY="
+        }
+      ]
+    },
+    {
+      "Route": "index.32vskkqjdi.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32vskkqjdi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY="
+        }
+      ]
+    },
+    {
+      "Route": "index.32vskkqjdi.html.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyw1cn50sy-32vskkqjdi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32vskkqjdi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyw1cn50sy-32vskkqjdi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU+L9CeeXsrBY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyw1cn50sy-32vskkqjdi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 12:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-myFe464RhsNk7S2iXRT60nJ0VUdkBb+JHyEQx6akBNY="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.0jh3wdm62g.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyy5zc9u99-0jh3wdm62g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001968503937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jh3wdm62g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.0jh3wdm62g.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\calculator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jh3wdm62g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.0jh3wdm62g.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyy5zc9u99-0jh3wdm62g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jh3wdm62g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyy5zc9u99-0jh3wdm62g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001968503937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\calculator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fM+Dc3kL/S0f1pnEOhd93l+2tA2vmhN1yWfYPsVQwnk="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\hyy5zc9u99-0jh3wdm62g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 11:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfntpSIa5KqV+Jjeqizp+t0UBCo1ZRDYcCaLVBPKwDk="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\ssva8p822p-ki5niz5td9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000516262261"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\dashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\ssva8p822p-ki5niz5td9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.ki5niz5td9.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\ssva8p822p-ki5niz5td9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000516262261"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5niz5td9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboard.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.ki5niz5td9.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\dashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5niz5td9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboard.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dashboard.ki5niz5td9.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\ssva8p822p-ki5niz5td9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 19:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5niz5td9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dashboard.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5V2YSh4bT6HChW0Ir8Gk3Bi46bLMkK2f5u/iPDsftJs="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.h3qpt6b19a.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\v7n4eqx3dg-h3qpt6b19a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003472222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3qpt6b19a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.h3qpt6b19a.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3qpt6b19a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.h3qpt6b19a.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\v7n4eqx3dg-h3qpt6b19a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3qpt6b19a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\v7n4eqx3dg-h3qpt6b19a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003472222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6pRbaRt9GPeElM+7nnB9Xe7LfgLysVhlyeZAS/H6pk="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js.gz",
+      "AssetFile": "C:\\Users\\Mrx\\Desktop\\KakhetiOnlineStore\\obj\\Debug\\net9.0\\compressed\\v7n4eqx3dg-h3qpt6b19a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 05:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8OorTvhAV9ngndhDr4nW0LAov6dE3pdzshtBQiT510="
+        }
+      ]
+    }
+  ]
+}

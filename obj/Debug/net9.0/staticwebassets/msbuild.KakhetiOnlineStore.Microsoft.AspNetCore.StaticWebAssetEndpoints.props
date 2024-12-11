@@ -1,0 +1,88 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/css/dashboard.0709vykqxv.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashboard.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0709vykqxv"},{"Name":"integrity","Value":"sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="},{"Name":"label","Value":"_content/KakhetiOnlineStore/css/dashboard.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3201"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:01:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/css/dashboard.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\dashboard.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3201"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PHAnatdKISce5LRzhSWIa1uIist/sVxHlEQy4KDiTFg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:01:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XS6/0J/\u002BAa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1269"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XS6/0J/\u002BAa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 09:20:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/css/styles.tkbzdzfmtj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tkbzdzfmtj"},{"Name":"integrity","Value":"sha256-XS6/0J/\u002BAa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds="},{"Name":"label","Value":"_content/KakhetiOnlineStore/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1269"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XS6/0J/\u002BAa5Dslk39baxRnC0Z8rkL35NdsfNaWNz8Ds=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 09:20:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/dashboard.a9u2yb67lj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a9u2yb67lj"},{"Name":"integrity","Value":"sha256-rpM98ksN4J5T/Xk4osH\u002BlYZLyY7QiuL7rImIBAHxwy8="},{"Name":"label","Value":"_content/KakhetiOnlineStore/dashboard.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rpM98ksN4J5T/Xk4osH\u002BlYZLyY7QiuL7rImIBAHxwy8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:00:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/dashboard.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rpM98ksN4J5T/Xk4osH\u002BlYZLyY7QiuL7rImIBAHxwy8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022rpM98ksN4J5T/Xk4osH\u002BlYZLyY7QiuL7rImIBAHxwy8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:00:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/index.32vskkqjdi.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"32vskkqjdi"},{"Name":"integrity","Value":"sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU\u002BL9CeeXsrBY="},{"Name":"label","Value":"_content/KakhetiOnlineStore/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"871"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU\u002BL9CeeXsrBY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU\u002BL9CeeXsrBY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"871"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022xa8q0I1mQrnQ6eVhhY7fJAibkJq9tfQU\u002BL9CeeXsrBY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 12:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/calculator.0jh3wdm62g.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\calculator.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0jh3wdm62g"},{"Name":"integrity","Value":"sha256-fM\u002BDc3kL/S0f1pnEOhd93l\u002B2tA2vmhN1yWfYPsVQwnk="},{"Name":"label","Value":"_content/KakhetiOnlineStore/js/calculator.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1737"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fM\u002BDc3kL/S0f1pnEOhd93l\u002B2tA2vmhN1yWfYPsVQwnk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 11:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/calculator.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\calculator.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fM\u002BDc3kL/S0f1pnEOhd93l\u002B2tA2vmhN1yWfYPsVQwnk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1737"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fM\u002BDc3kL/S0f1pnEOhd93l\u002B2tA2vmhN1yWfYPsVQwnk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 11:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/dashboard.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\dashboard.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8746"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:01:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/dashboard.ki5niz5td9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\dashboard.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ki5niz5td9"},{"Name":"integrity","Value":"sha256-rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc="},{"Name":"label","Value":"_content/KakhetiOnlineStore/js/dashboard.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8746"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rMmrWRhsVvJnIOXpZGTAsAhXCm8G8ZtxV0aynTywpgc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 19:01:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/main.h3qpt6b19a.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h3qpt6b19a"},{"Name":"integrity","Value":"sha256-o6pRbaRt9GPeElM\u002B7nnB9Xe7LfgLysVhlyeZAS/H6pk="},{"Name":"label","Value":"_content/KakhetiOnlineStore/js/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"633"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o6pRbaRt9GPeElM\u002B7nnB9Xe7LfgLysVhlyeZAS/H6pk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 05:49:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KakhetiOnlineStore/js/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o6pRbaRt9GPeElM\u002B7nnB9Xe7LfgLysVhlyeZAS/H6pk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"633"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o6pRbaRt9GPeElM\u002B7nnB9Xe7LfgLysVhlyeZAS/H6pk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 05:49:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

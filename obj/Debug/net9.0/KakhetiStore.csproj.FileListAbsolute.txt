@@ -1,0 +1,6 @@
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.csproj.AssemblyReference.cache
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.AssemblyInfoInputs.cache
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.AssemblyInfo.cs
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.csproj.CoreCompileInputs.cache
+C:\Users\Mrx\Desktop\KakhetiOnlineStore\obj\Debug\net9.0\KakhetiStore.MvcApplicationPartsAssemblyInfo.cache

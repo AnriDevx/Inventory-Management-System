@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KakhetiOnlineStore - Dashboard</title>
+    <link rel="stylesheet" href="css/dashboard.css">
+    <link rel="stylesheet" href="css/enhanced-dashboard.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <h2>პროდუქტის რეგისტრაცია</h2>
+            <form id="register-form">
+                <div class="form-block">
+                    <label for="name"><strong>სახელი:</strong></label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-block">
+                    <label for="category"><strong>კატეგორიები:</strong></label>
+                    <select id="category" name="category" required>
+                        <option value="">აირჩიეთ კატეგორია</option>
+                        <option value="Phones">ტელეფონები</option>
+                        <option value="Laptops">ლეპტოპები</option>
+                        <option value="Console Games">კონსოლის თამაშები</option>
+                        <option value="Console Accessories">კონსოლის აქსესუარები</option>
+                        <option value="Smartwatches">სმარტ საათები</option>
+                        <option value="Headphones">ყურსასმენები</option>
+                        <option value="Cameras">კამერები</option>
+                        <option value="Home Appliances">საყოფაცხოვრებო ტექნიკა</option>
+                        <option value="Fitness Equipment">ფიტნეს აღჭურვილობა</option>
+                        <option value="Office Supplies">ოფისის ნივთები</option>
+                        <!-- სხვა კატეგორიები -->
+                    </select>
+                </div>
+                <div class="form-block">
+                    <label for="unit-price"><strong>ერთეულის ფასი (₾):</strong></label>
+                    <input type="number" id="unit-price" name="unit-price" step="0.01" required>
+                </div>
+                <div class="form-block">
+                    <label for="quantity"><strong>ერთეულის რაოდენობა:</strong></label>
+                    <input type="number" id="quantity" name="quantity" required>
+                </div>
+                <button type="submit">პროდუქტის რეგისტრაცია</button>
+                <button type="button" id="add-product">პროდუქტის დამატება</button>
+                <p id="error-message" style="color: #d9534f; display: none;"></p>
+            </form>
+            <div id="success-message" style="display: none; color: #28a745; margin-top: 20px;">
+                პროდუქტი წარმატებით დარეგისტრირდა!
+            </div>
+        </div>
+
+        <h2>არსებული მონაცემები</h2>
+        <input type="text" id="search-products" placeholder="პროდუქტის ძებნა..." style="width: 100%; padding: 10px; margin-bottom: 20px; font-size: 16px;">
+        <div id="product-list" class="table-container">
+            <!-- Product list will be populated here -->
+        </div>
+
+        <!-- კალკულატორი -->
+        <button id="toggle-calculator">კალკულატორი</button>
+        <div id="calculator-container" class="calculator" style="display: none;">
+            <h2>კალკულატორი</h2>
+            <input type="text" id="calc-display" disabled>
+            <div class="calc-buttons">
+                <button class="calc-btn">7</button>
+                <button class="calc-btn">8</button>
+                <button class="calc-btn">9</button>
+                <button class="calc-btn">/</button>
+                <button class="calc-btn">4</button>
+                <button class="calc-btn">5</button>
+                <button class="calc-btn">6</button>
+                <button class="calc-btn">*</button>
+                <button class="calc-btn">1</button>
+                <button class="calc-btn">2</button>
+                <button class="calc-btn">3</button>
+                <button class="calc-btn">-</button>
+                <button class="calc-btn">0</button>
+                <button class="calc-btn">.</button>
+                <button class="calc-btn">=</button>
+                <button class="calc-btn">+</button>
+                <button class="calc-btn clear">C</button>
+            </div>
+        </div>
+    </div>
+    <script src="js/dashboard.js"></script>
+    <script src="js/calculator.js"></script>
+</body>
+</html>
